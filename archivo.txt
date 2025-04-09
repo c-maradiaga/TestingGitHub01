@@ -1,5 +1,8 @@
 Archivo local creado en main
+<<<<<<< HEAD
 
 Este contenido se lo agregué después.
 Ahora voy a intentar hacer el cherry-pick.
 
+=======
+>>>>>>> 16674b6 (Crea archivo en main)
